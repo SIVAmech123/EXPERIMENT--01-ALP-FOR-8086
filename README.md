@@ -1,7 +1,7 @@
 # EXPERIMENT  01 ALP FOR 8086
-## Name : ASHOK S
-## Roll no : 212224040031
-## Date of experiment : 25.07.26
+## Name : SIVAKUMAR R
+## Roll no : 212223230209
+## Date of experiment : 27.07.26
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
